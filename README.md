@@ -2,6 +2,10 @@
 
 This project predicts the age of possums using linear regression with interaction terms, based on morphological and categorical data.
 
+## Dataset Source
+
+The dataset used in this project is from Kaggle: [Possum Regression Dataset](https://www.kaggle.com/datasets/abrambeyer/openintro-possum)
+
 ## Project Structure
 
 - **possum.csv**  
